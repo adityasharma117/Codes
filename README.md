@@ -23,9 +23,18 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1189-maximum-number-of-balloons](https://github.com/kar-17/Codes/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/kar-17/Codes/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1732-find-the-highest-altitude](https://github.com/kar-17/Codes/tree/main/1732-find-the-highest-altitude/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1189-maximum-number-of-balloons](https://github.com/kar-17/Codes/tree/main/1189-maximum-number-of-balloons/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1189-maximum-number-of-balloons](https://github.com/kar-17/Codes/tree/main/1189-maximum-number-of-balloons/) | Easy |
 <!---LeetCode Topics End-->
