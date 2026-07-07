@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kar-17/Codes/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0283-move-zeroes](https://github.com/kar-17/Codes/tree/main/0283-move-zeroes/) | Easy |
+| [0485-max-consecutive-ones](https://github.com/kar-17/Codes/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/kar-17/Codes/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/kar-17/Codes/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/kar-17/Codes/tree/main/1732-find-the-highest-altitude/) | Easy |
