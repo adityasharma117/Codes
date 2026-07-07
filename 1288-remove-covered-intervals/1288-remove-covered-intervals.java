@@ -21,17 +21,18 @@ class Solution {
                  }
              }
         }
-    ArrayList<int[]> arr = new ArrayList<>();
+
+int count = 0;
         int maxend = -1;
         for(int i = 0; i < intervals.length;i++){
             if(intervals[i][1] > maxend){
                 maxend = intervals[i][1];
-                arr.add(intervals[i]);
+                count++;
             }
         }
 
         
-       return arr.size();
+       return count;
         }
 
     }
