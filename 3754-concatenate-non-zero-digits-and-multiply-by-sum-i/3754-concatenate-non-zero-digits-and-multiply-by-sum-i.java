@@ -1,19 +1,24 @@
 class Solution {
     public long sumAndMultiply(int n) {
-        int x=0;
-        int sum=0;
-        int i=1;
+        if(n==0){return 0;}
+        long k = 0;
+        long kk = 0;
+        int sum = 0;
+        int r = -1;
         while(n>0){
-            int m=n % 10;
-            n /=10;
-            if(m == 0) continue;
-            sum += m;
-            x += (m * i);
-            i *=10;
+             if(n%10!=0){            
+                 r=n%10;
+                 sum+=r;
+                k = (k*10)+r;
+             }      
+
+            n=n/10;
         }
-        return (long) x * sum;
+        while(k>0){
+            long rr = k%10;
+            kk = (kk*10)+rr;
+            k=k/10;
+        }
+        return kk*sum;
     }
 }
-       
-      
-    
