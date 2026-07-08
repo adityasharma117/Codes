@@ -10,7 +10,7 @@ class Solution {
 
             }
     }
-    return count<=1;
+    return count<2;
     }
 
     }
