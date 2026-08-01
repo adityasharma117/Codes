@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0072-edit-distance](https://github.com/kar-17/Codes/tree/main/0072-edit-distance/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/kar-17/Codes/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/kar-17/Codes/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 ## Prefix Sum
@@ -60,4 +61,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/kar-17/Codes/tree/main/0136-single-number/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0072-edit-distance](https://github.com/kar-17/Codes/tree/main/0072-edit-distance/) | Medium |
 <!---LeetCode Topics End-->
