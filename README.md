@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0072-edit-distance](https://github.com/kar-17/Codes/tree/main/0072-edit-distance/) | Medium |
+| [0125-valid-palindrome](https://github.com/kar-17/Codes/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/kar-17/Codes/tree/main/0242-valid-anagram/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/kar-17/Codes/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/kar-17/Codes/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
@@ -65,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kar-17/Codes/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0088-merge-sorted-array](https://github.com/kar-17/Codes/tree/main/0088-merge-sorted-array/) | Easy |
+| [0125-valid-palindrome](https://github.com/kar-17/Codes/tree/main/0125-valid-palindrome/) | Easy |
 | [0283-move-zeroes](https://github.com/kar-17/Codes/tree/main/0283-move-zeroes/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/kar-17/Codes/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Sorting
