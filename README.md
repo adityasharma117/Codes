@@ -11,11 +11,13 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0206-reverse-linked-list](https://github.com/kar-17/Codes/tree/main/0206-reverse-linked-list/) | Easy |
+| [0342-power-of-four](https://github.com/kar-17/Codes/tree/main/0342-power-of-four/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/kar-17/Codes/tree/main/0007-reverse-integer/) | Medium |
 | [0268-missing-number](https://github.com/kar-17/Codes/tree/main/0268-missing-number/) | Easy |
+| [0342-power-of-four](https://github.com/kar-17/Codes/tree/main/0342-power-of-four/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/kar-17/Codes/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/kar-17/Codes/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Array
@@ -86,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0136-single-number](https://github.com/kar-17/Codes/tree/main/0136-single-number/) | Easy |
 | [0268-missing-number](https://github.com/kar-17/Codes/tree/main/0268-missing-number/) | Easy |
+| [0342-power-of-four](https://github.com/kar-17/Codes/tree/main/0342-power-of-four/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
