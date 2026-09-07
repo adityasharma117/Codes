@@ -8,12 +8,14 @@ class Solution {
             if(set.contains(s.charAt(high))){
                 set.remove(s.charAt(low));
                 low++;
+
             }else{
-            set.add(s.charAt(high));
-            high++;
-            max = Math.max(max,high-low );}
+                set.add(s.charAt(high));
+                max = Math.max(max,high-low +1);
+                high++;
+
+            }
         }
-    return max;
-        
+        return max;
     }
 }
