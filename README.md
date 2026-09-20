@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kar-17/Codes/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0005-longest-palindromic-substring](https://github.com/kar-17/Codes/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kar-17/Codes/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0072-edit-distance](https://github.com/kar-17/Codes/tree/main/0072-edit-distance/) | Medium |
 | [0125-valid-palindrome](https://github.com/kar-17/Codes/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/kar-17/Codes/tree/main/0242-valid-anagram/) | Easy |
@@ -74,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/kar-17/Codes/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kar-17/Codes/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kar-17/Codes/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0088-merge-sorted-array](https://github.com/kar-17/Codes/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/kar-17/Codes/tree/main/0125-valid-palindrome/) | Easy |
 | [0283-move-zeroes](https://github.com/kar-17/Codes/tree/main/0283-move-zeroes/) | Easy |
@@ -161,4 +163,20 @@ Collection of LeetCode questions to ace the coding interview!
 | [0094-binary-tree-inorder-traversal](https://github.com/kar-17/Codes/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/kar-17/Codes/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/kar-17/Codes/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kar-17/Codes/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Z Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kar-17/Codes/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Knuth–Morris–Pratt Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kar-17/Codes/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Boyer–Moore String-Search Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kar-17/Codes/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 <!---LeetCode Topics End-->
