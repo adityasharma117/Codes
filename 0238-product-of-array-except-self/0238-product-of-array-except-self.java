@@ -15,7 +15,7 @@ class Solution {
              postfix =  nums[j] * postfix;
              arr[j-1] = arr[j-1]* postfix;
            }
-           for(int x: arr){System.out.print(" "+ x);}
+            
         return arr;
     }
 }
