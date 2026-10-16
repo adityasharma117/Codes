@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/kar-17/Codes/tree/main/0001-two-sum/) | Easy |
+| [0015-3sum](https://github.com/kar-17/Codes/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kar-17/Codes/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0035-search-insert-position](https://github.com/kar-17/Codes/tree/main/0035-search-insert-position/) | Easy |
 | [0053-maximum-subarray](https://github.com/kar-17/Codes/tree/main/0053-maximum-subarray/) | Medium |
@@ -79,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/kar-17/Codes/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0015-3sum](https://github.com/kar-17/Codes/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kar-17/Codes/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kar-17/Codes/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0088-merge-sorted-array](https://github.com/kar-17/Codes/tree/main/0088-merge-sorted-array/) | Easy |
@@ -88,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/kar-17/Codes/tree/main/0015-3sum/) | Medium |
 | [0088-merge-sorted-array](https://github.com/kar-17/Codes/tree/main/0088-merge-sorted-array/) | Easy |
 | [0217-contains-duplicate](https://github.com/kar-17/Codes/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/kar-17/Codes/tree/main/0242-valid-anagram/) | Easy |
