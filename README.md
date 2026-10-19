@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1732-find-the-highest-altitude](https://github.com/kar-17/Codes/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/kar-17/Codes/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/kar-17/Codes/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
+| [2089-find-target-indices-after-sorting-array](https://github.com/kar-17/Codes/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/kar-17/Codes/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -103,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0912-sort-an-array](https://github.com/kar-17/Codes/tree/main/0912-sort-an-array/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/kar-17/Codes/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/kar-17/Codes/tree/main/1288-remove-covered-intervals/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/kar-17/Codes/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -146,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/kar-17/Codes/tree/main/0035-search-insert-position/) | Easy |
 | [0268-missing-number](https://github.com/kar-17/Codes/tree/main/0268-missing-number/) | Easy |
+| [2089-find-target-indices-after-sorting-array](https://github.com/kar-17/Codes/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
