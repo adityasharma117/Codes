@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0268-missing-number](https://github.com/kar-17/Codes/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/kar-17/Codes/tree/main/0283-move-zeroes/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/kar-17/Codes/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0560-subarray-sum-equals-k](https://github.com/kar-17/Codes/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0912-sort-an-array](https://github.com/kar-17/Codes/tree/main/0912-sort-an-array/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/kar-17/Codes/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/kar-17/Codes/tree/main/1288-remove-covered-intervals/) | Medium |
@@ -63,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/kar-17/Codes/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/kar-17/Codes/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/kar-17/Codes/tree/main/1732-find-the-highest-altitude/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -72,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0217-contains-duplicate](https://github.com/kar-17/Codes/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/kar-17/Codes/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/kar-17/Codes/tree/main/0268-missing-number/) | Easy |
+| [0560-subarray-sum-equals-k](https://github.com/kar-17/Codes/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/kar-17/Codes/tree/main/1189-maximum-number-of-balloons/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
