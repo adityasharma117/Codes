@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kar-17/Codes/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0035-search-insert-position](https://github.com/kar-17/Codes/tree/main/0035-search-insert-position/) | Easy |
 | [0053-maximum-subarray](https://github.com/kar-17/Codes/tree/main/0053-maximum-subarray/) | Medium |
+| [0056-merge-intervals](https://github.com/kar-17/Codes/tree/main/0056-merge-intervals/) | Medium |
 | [0088-merge-sorted-array](https://github.com/kar-17/Codes/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kar-17/Codes/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/kar-17/Codes/tree/main/0136-single-number/) | Easy |
@@ -97,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/kar-17/Codes/tree/main/0015-3sum/) | Medium |
+| [0056-merge-intervals](https://github.com/kar-17/Codes/tree/main/0056-merge-intervals/) | Medium |
 | [0088-merge-sorted-array](https://github.com/kar-17/Codes/tree/main/0088-merge-sorted-array/) | Easy |
 | [0217-contains-duplicate](https://github.com/kar-17/Codes/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/kar-17/Codes/tree/main/0242-valid-anagram/) | Easy |
@@ -206,4 +208,8 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/kar-17/Codes/tree/main/0011-container-with-most-water/) | Medium |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0056-merge-intervals](https://github.com/kar-17/Codes/tree/main/0056-merge-intervals/) | Medium |
 <!---LeetCode Topics End-->
