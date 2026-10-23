@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0088-merge-sorted-array](https://github.com/kar-17/Codes/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kar-17/Codes/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/kar-17/Codes/tree/main/0136-single-number/) | Easy |
+| [0169-majority-element](https://github.com/kar-17/Codes/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/kar-17/Codes/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/kar-17/Codes/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0268-missing-number](https://github.com/kar-17/Codes/tree/main/0268-missing-number/) | Easy |
@@ -75,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0001-two-sum](https://github.com/kar-17/Codes/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kar-17/Codes/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0169-majority-element](https://github.com/kar-17/Codes/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/kar-17/Codes/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/kar-17/Codes/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/kar-17/Codes/tree/main/0268-missing-number/) | Easy |
@@ -83,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/kar-17/Codes/tree/main/0169-majority-element/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/kar-17/Codes/tree/main/1189-maximum-number-of-balloons/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -102,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0015-3sum](https://github.com/kar-17/Codes/tree/main/0015-3sum/) | Medium |
 | [0056-merge-intervals](https://github.com/kar-17/Codes/tree/main/0056-merge-intervals/) | Medium |
 | [0088-merge-sorted-array](https://github.com/kar-17/Codes/tree/main/0088-merge-sorted-array/) | Easy |
+| [0169-majority-element](https://github.com/kar-17/Codes/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/kar-17/Codes/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/kar-17/Codes/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/kar-17/Codes/tree/main/0268-missing-number/) | Easy |
@@ -127,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/kar-17/Codes/tree/main/0053-maximum-subarray/) | Medium |
+| [0169-majority-element](https://github.com/kar-17/Codes/tree/main/0169-majority-element/) | Easy |
 | [0191-number-of-1-bits](https://github.com/kar-17/Codes/tree/main/0191-number-of-1-bits/) | Easy |
 | [0912-sort-an-array](https://github.com/kar-17/Codes/tree/main/0912-sort-an-array/) | Medium |
 ## Heap (Priority Queue)
@@ -220,4 +225,8 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/kar-17/Codes/tree/main/0014-longest-common-prefix/) | Easy |
+## Boyer–Moore Majority Vote Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/kar-17/Codes/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
