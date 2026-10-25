@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/kar-17/Codes/tree/main/0007-reverse-integer/) | Medium |
+| [0009-palindrome-number](https://github.com/kar-17/Codes/tree/main/0009-palindrome-number/) | Easy |
 | [0268-missing-number](https://github.com/kar-17/Codes/tree/main/0268-missing-number/) | Easy |
 | [0342-power-of-four](https://github.com/kar-17/Codes/tree/main/0342-power-of-four/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/kar-17/Codes/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
