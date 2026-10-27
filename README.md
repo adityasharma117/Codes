@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/kar-17/Codes/tree/main/0001-two-sum/) | Easy |
+| [0004-median-of-two-sorted-arrays](https://github.com/kar-17/Codes/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0011-container-with-most-water](https://github.com/kar-17/Codes/tree/main/0011-container-with-most-water/) | Medium |
 | [0014-longest-common-prefix](https://github.com/kar-17/Codes/tree/main/0014-longest-common-prefix/) | Easy |
 | [0015-3sum](https://github.com/kar-17/Codes/tree/main/0015-3sum/) | Medium |
@@ -134,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/kar-17/Codes/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0053-maximum-subarray](https://github.com/kar-17/Codes/tree/main/0053-maximum-subarray/) | Medium |
 | [0169-majority-element](https://github.com/kar-17/Codes/tree/main/0169-majority-element/) | Easy |
 | [0191-number-of-1-bits](https://github.com/kar-17/Codes/tree/main/0191-number-of-1-bits/) | Easy |
@@ -161,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/kar-17/Codes/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0035-search-insert-position](https://github.com/kar-17/Codes/tree/main/0035-search-insert-position/) | Easy |
 | [0268-missing-number](https://github.com/kar-17/Codes/tree/main/0268-missing-number/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/kar-17/Codes/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
