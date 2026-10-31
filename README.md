@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0238-product-of-array-except-self](https://github.com/kar-17/Codes/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0268-missing-number](https://github.com/kar-17/Codes/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/kar-17/Codes/tree/main/0283-move-zeroes/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/kar-17/Codes/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/kar-17/Codes/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/kar-17/Codes/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0912-sort-an-array](https://github.com/kar-17/Codes/tree/main/0912-sort-an-array/) | Medium |
@@ -104,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0088-merge-sorted-array](https://github.com/kar-17/Codes/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/kar-17/Codes/tree/main/0125-valid-palindrome/) | Easy |
 | [0283-move-zeroes](https://github.com/kar-17/Codes/tree/main/0283-move-zeroes/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/kar-17/Codes/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0344-reverse-string](https://github.com/kar-17/Codes/tree/main/0344-reverse-string/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/kar-17/Codes/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Sorting
@@ -126,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0136-single-number](https://github.com/kar-17/Codes/tree/main/0136-single-number/) | Easy |
 | [0191-number-of-1-bits](https://github.com/kar-17/Codes/tree/main/0191-number-of-1-bits/) | Easy |
 | [0268-missing-number](https://github.com/kar-17/Codes/tree/main/0268-missing-number/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/kar-17/Codes/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0342-power-of-four](https://github.com/kar-17/Codes/tree/main/0342-power-of-four/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -168,6 +171,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0004-median-of-two-sorted-arrays](https://github.com/kar-17/Codes/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0035-search-insert-position](https://github.com/kar-17/Codes/tree/main/0035-search-insert-position/) | Easy |
 | [0268-missing-number](https://github.com/kar-17/Codes/tree/main/0268-missing-number/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/kar-17/Codes/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/kar-17/Codes/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -239,4 +243,12 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/kar-17/Codes/tree/main/0169-majority-element/) | Easy |
+## Pigeonhole Principle
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/kar-17/Codes/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/kar-17/Codes/tree/main/0287-find-the-duplicate-number/) | Medium |
 <!---LeetCode Topics End-->
