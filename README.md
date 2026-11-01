@@ -56,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1732-find-the-highest-altitude](https://github.com/kar-17/Codes/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/kar-17/Codes/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/kar-17/Codes/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
+| [2085-count-common-words-with-one-occurrence](https://github.com/kar-17/Codes/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/kar-17/Codes/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/kar-17/Codes/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## String
@@ -72,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0344-reverse-string](https://github.com/kar-17/Codes/tree/main/0344-reverse-string/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/kar-17/Codes/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/kar-17/Codes/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
+| [2085-count-common-words-with-one-occurrence](https://github.com/kar-17/Codes/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -89,11 +91,13 @@ Collection of LeetCode questions to ace the coding interview!
 | [0268-missing-number](https://github.com/kar-17/Codes/tree/main/0268-missing-number/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/kar-17/Codes/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/kar-17/Codes/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [2085-count-common-words-with-one-occurrence](https://github.com/kar-17/Codes/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/kar-17/Codes/tree/main/0169-majority-element/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/kar-17/Codes/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [2085-count-common-words-with-one-occurrence](https://github.com/kar-17/Codes/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
