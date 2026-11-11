@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/kar-17/Codes/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/kar-17/Codes/tree/main/0009-palindrome-number/) | Easy |
+| [0070-climbing-stairs](https://github.com/kar-17/Codes/tree/main/0070-climbing-stairs/) | Easy |
 | [0268-missing-number](https://github.com/kar-17/Codes/tree/main/0268-missing-number/) | Easy |
 | [0342-power-of-four](https://github.com/kar-17/Codes/tree/main/0342-power-of-four/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/kar-17/Codes/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
@@ -139,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/kar-17/Codes/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0053-maximum-subarray](https://github.com/kar-17/Codes/tree/main/0053-maximum-subarray/) | Medium |
+| [0070-climbing-stairs](https://github.com/kar-17/Codes/tree/main/0070-climbing-stairs/) | Easy |
 | [0072-edit-distance](https://github.com/kar-17/Codes/tree/main/0072-edit-distance/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kar-17/Codes/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 ## Divide and Conquer
@@ -255,4 +257,8 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0287-find-the-duplicate-number](https://github.com/kar-17/Codes/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/kar-17/Codes/tree/main/0070-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->
