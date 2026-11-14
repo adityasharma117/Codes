@@ -6,7 +6,7 @@ class Solution {
             a = a*10 +(l%10);
             l=l/10;
         }
-        System.out.println(l);
+      
         return(a==x);
     }
 }
